@@ -9,4 +9,6 @@ For installation you should just unzip the zip and find an exe, that's all.
 
 In start you can choose an element of molecules, which motion you want to see. Later you can edit temperature and density of molecules. There are some mods in programm, i will not describe it, try it if you want.
 
+There is zip with project if you want to see it.
+
 I will be happy, if you interested in my programm. Wellcome.

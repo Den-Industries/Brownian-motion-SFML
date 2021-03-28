@@ -1,7 +1,7 @@
 # Brownian-motion-SFML
 This programm simulate brownian motion.
 
-It is another programm for fisics in college
+It is another programm for fisics in college. I made it with SFML on c++.
 
 This programm show you motion of molecules, it is beautiful.
 
